@@ -1,5 +1,5 @@
 import random
-letter=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','w','u','v','x','y','z']
+letter=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 number=random.randint(1,10)
 word=""
 for char in range(1,number+1):
